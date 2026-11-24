@@ -1,0 +1,12 @@
+# Nunca subir credenciais
+.env
+.env.*
+!.env.example
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Caso alguém copie um projeto para cá por engano
+node_modules/
+logs/
