@@ -25,7 +25,7 @@ contentstack-aprendizados/
 ├── CONTRIBUTING.md            # Regras e passo a passo para contribuir
 └── membros/
     ├── _modelo/README.md      # Modelo para copiar
-    ├── samuel/README.md       # Documentação do Samuel
+    ├── samuel/README.md       # Documentação do fulano
     └── <seu-nome>/README.md   # A sua documentação
 ```
 
